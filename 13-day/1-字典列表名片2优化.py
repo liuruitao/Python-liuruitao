@@ -45,7 +45,6 @@ while True:
 			print("查无此人")
 		else:
 			print("姓名:%s\n职位:%s\n手机号:%s\n公司:%s\n地址:%s\n"%(cards[count-1]["name"],cards[count-1]["job"],cards[count-1]["phone"],cards[count-1]["company"],cards[count-1]["address"]))
-
 	elif fun_number == 3:
 		print("修改")
 	elif fun_number == 4:
