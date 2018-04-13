@@ -1,0 +1,7 @@
+print("  _oo0oo_")
+print(" o8888888o")
+print("   88.88   ")
+print("  (/-_-/) ")
+print("  0\\ = /0 ")
+print("__/`---'\\__")
+print("")
